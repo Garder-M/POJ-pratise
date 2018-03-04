@@ -1,0 +1,6 @@
+﻿  Source.cpp
+g:\1_考研资料\pat\acm\poj 3190 stall reservations\poj 3190 stall reservations\source.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+g:\1_考研资料\pat\acm\poj 3190 stall reservations\poj 3190 stall reservations\source.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+Debug\Source.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'

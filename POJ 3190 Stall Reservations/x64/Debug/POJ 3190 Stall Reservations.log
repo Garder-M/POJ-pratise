@@ -1,0 +1,7 @@
+﻿  Source.cpp
+g:\1_考研资料\pat\acm\poj 3190 stall reservations\poj 3190 stall reservations\source.cpp(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+g:\1_考研资料\pat\acm\poj 3190 stall reservations\poj 3190 stall reservations\source.cpp(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  POJ 3190 Stall Reservations.vcxproj -> G:\1_考研资料\PAT\acm\POJ 3190 Stall Reservations\x64\Debug\POJ 3190 Stall Reservations.exe
+  POJ 3190 Stall Reservations.vcxproj -> G:\1_考研资料\PAT\acm\POJ 3190 Stall Reservations\x64\Debug\POJ 3190 Stall Reservations.pdb (Full PDB)
